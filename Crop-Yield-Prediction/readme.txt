@@ -1,1 +1,1 @@
-
+Predict crop yield using environmental and agricultural factors from multiple data sources: rainfall, temperature, pesticide usage, and historical yield. The goal is to understand key drivers of yield, clean and merge the datasets into one analytical table, test relationships statistically, and prepare a processed dataset for modeling.
